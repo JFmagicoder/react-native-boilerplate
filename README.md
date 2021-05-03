@@ -1,29 +1,13 @@
-<div align="center">
-    <img src="/assets/docs/start.png" alt="Logo" width="100%">
-</div>
-
-# react-native-starter-kit
-
-*Simple, modern, faster*
-
-***This project is currently under development. If you want to make this project better, PRs are welcome***
-## What's inside
-
-- **React Navigation** (Stack Navigator, Bottom Tabs Navigator, Drawer)
-- **Styled Component**
-- **Custom fonts**
-- **Recoil**
-
 ## Getting started 
 
 ### 1. Clone and Install
 
 ```bash
 # Clone the repo
-git clone https://github.com/tranhiepqna/react-native-starter-kit.git
+git clone https://github.com/JFmagicoder/react-native-boilerplate.git
 
 # Navigate to clonned folder and Install dependencies
-cd react-native-starter-kit && yarn install
+cd react-native-boilerplate && yarn install
 
 # Install Pods
 cd ios && pod install
