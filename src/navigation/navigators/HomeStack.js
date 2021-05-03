@@ -65,7 +65,7 @@ const HomeStack = () => (
           />
           <Tab.Screen
             name="通知"
-            component={HomeModule.HomeScreens.Blank}
+            component={HomeModule.HomeScreens.Notifications}
             options={{
               tabBarLabel: '通知',
               tabBarIcon: ({color, size, focused}) => (
